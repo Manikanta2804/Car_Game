@@ -23,7 +23,7 @@ The **Car Racing Game** is a simple, fun, and interactive game built using Pytho
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/Manikanta2804/car_game.git
+   git clone https://github.com/Manikanta2804/Car_Game.git
    ```
 
 3. **Run the Game**
